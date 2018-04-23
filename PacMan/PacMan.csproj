@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IFruit.cs" />
+    <Compile Include="IGhosts.cs" />
+    <Compile Include="IPacMan.cs" />
+    <Compile Include="PacMan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
